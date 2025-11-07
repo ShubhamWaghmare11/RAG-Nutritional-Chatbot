@@ -1,7 +1,7 @@
 # RAG-Based AI Chatbot on Human Nutrition PDF
 
-A Retrieval-Augmented Generation (RAG) chatbot designed to provide context-aware answers derived directly from *Human Nutrition* documents.  
-Built from scratch using Python, OpenAI Embeddings, Supabase (PostgreSQL + pgvector), and GPT-4o-mini.
+A Retrieval-Augmented Generation (RAG) chatbot designed completely from SCRATCH to provide context-aware answers derived directly from *Human Nutrition* documents.  
+Built using Python, OpenAI Embeddings, Supabase (PostgreSQL + pgvector), and GPT-4o-mini.
 
 ---
 
